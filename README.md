@@ -1,7 +1,7 @@
 
 ![logo](https://wallpaperaccess.com/full/3959399.jpg)
 <h1 align="center">Hi 👋, I'm Irfan Habib</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 <img align="right" alt="data analyst" width="400" src="https://blog.thecenterforsalesstrategy.com/hs-fs/hubfs/analytics.gif?width=400&name=analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanhabib19&label=Profile%20views&color=0e75b6&style=flat" alt="irfanhabib19" /> </p>
